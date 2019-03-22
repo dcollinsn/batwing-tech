@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://batwing.tech/"
 languageCode = "en-us"
 title = "Batwing Hobbies"
 theme = "terminal"
