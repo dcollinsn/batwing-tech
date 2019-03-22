@@ -1,7 +1,6 @@
 ---
 title: "Judge Announcements Bot"
 date: 2019-03-21T23:16:04-04:00
-draft: true
 ---
 
 The Judge Announcements Bot is a new tool, currently in development, to help
