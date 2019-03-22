@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.container {
+    flex: auto 1 1;
+    border-right: none;
+}
