@@ -3,12 +3,12 @@ title: "About Batwing Hobbies"
 date: 2019-03-21T22:35:43-04:00
 ---
 
-Batwing Hobbies, LLC, and our owner and sole member, Dan Collins, are committed
-to providing expert and professional services to a wide range of organizations,
+Batwing Hobbies LLC's owner and sole member is Dan Collins - Level 3 Magic: the
+Gathering Judge, consultant, and software developer. I am committed to
+providing expert and professional services to a wide range of organizations,
 projects, and individuals related to competitive gaming and organized play, and
-especially to Magic: the Gathering organized play. These include officiating at
-tournaments as a Level 3 Judge, as well as advice, consulting, and technical
-work for affiliated projects.
+especially to Magic: the Gathering organized play. This includes officiating at
+tournaments as well as providing technical work for affiliated projects.
 
 At tournaments, this includes providing rulings and leading teams of judges to
 perform the myriad tasks that are required to run a smooth, fun, and fair event.
@@ -26,13 +26,14 @@ volunteer basis, including the following:
 * [Server Administrator for MagicJudges.org](https://blogs.magicjudges.org/)
 
     Implemented HTTPS throughout the network, coordinated a move to AWS to bring
-    the entire network under the control of active judges, substantially
+    the entire network under the control of active judges, and substantially
     improved system stability and backups.
 
 * [Developer of Judge Announcements](https://github.com/dcollinsn/judge-announcements/)
 
-    Started a project to improve distribution of Judge Program announcements to
-    the many local and regional chat rooms that judges use.
+    Designed, implemented, and am maintaining a project to improve distribution
+    of Judge Program announcements to the many local and regional chat rooms
+    that judges use.
 
 These various projects and more are voluntary and unpaid, despite their
 wide-reaching importance to the Judge Program. I'd appreciate your support,
@@ -45,4 +46,4 @@ that, which I describe [elsewhere](/support/), or just use the simple links:
 * [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E3PRNPJWVZSNL&source=url)
 * [Amazon](https://www.amazon.com/?tag=batwing0f-20&linkCode=ur1) - Click this
   link when you're ready to shop on Amazon, or set your Amazon bookmark to that
-  URL. 
+  URL.
