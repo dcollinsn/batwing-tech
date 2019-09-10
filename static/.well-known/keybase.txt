@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/dcollins
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://batwing.tech
+  * I am dcollins (https://keybase.io/dcollins) on keybase.
+  * I have a public key with fingerprint 26FE 0B31 7C0E 029C B3AA  B976 2144 7368 8261 5766
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010167dc447d9d6441a36d38ffc9864102607638b05e1263e0d0bf17ac76b1900c8e0a",
+      "fingerprint": "26fe0b317c0e029cb3aab9762144736882615766",
+      "host": "keybase.io",
+      "key_id": "2144736882615766",
+      "kid": "010167dc447d9d6441a36d38ffc9864102607638b05e1263e0d0bf17ac76b1900c8e0a",
+      "uid": "3f8e49976a937f118190b1248ac43d19",
+      "username": "dcollins"
+    },
+    "service": {
+      "hostname": "batwing.tech",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1568132828,
+  "expire_in": 157680000,
+  "prev": "10a611c18779f8870ec88e8bdcb612f72b6a3c679f122f5fe3aec31e13ac7f84",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJdSBRRGF1rM7OSyDIsi5yswEzunZm9c2cpCNdSfKmMjMJlmZ877uQ6
+s+7MauJPIaJEPmgk6IMJPlgZkkUPKkVmmlYUEVFgSYWlIEEP/Spi3RF767H7crnf
+d875zne4w2uXu+JjUrOtYK10Qot5cr816vKXP3tbycimWsF4K5lisniRkEosO1Cs
+q4yXARBAJKgKzwuqqCKehxKHVA5rmiJixEPAIiAgDsvAQyCLOAJUIGtQkBQByVAE
+QMEESEwGo+lGEYmEI7phU1kWaQTIHBQUQAArKjInSbIoIBbSQRzCmEXQIyBEiUHT
+chjUnCxZJFM3aY0+Aov2/oH/z76ji3KchgkvUoOSyAkahJhCZMjyWFJ4ToWiA7RI
+xJBKCEWrihkK6YbFVGcwtFqmK8QJ1tlkCSFLdjkNJNMmSpBywxHTNimJdoK2Hba8
+DtOuCDvQciIHlkQCsm6olEYZZSRi6abBeCFFKrbuqEIPwpBjMYszGHImrEdIQHcQ
+NBgM6HHmkDIqCYGEIFQgFgRRw1gARMGYYFlVZARZTWBlJHEKok3IsppHI5xEFA4S
+yNF4NMwzzlqlhkm16ShbKqKall5kSHY0QpjqocFCtysm3hW7YpnzwVzxq9b9/XYN
+uSsXvO3uHixo4cYLE21m1q2fUW/VWZC4KxYzqzd0XUkM5fvEZyNNw37yeH3r9Hz9
+nYddvoH37cnL/TnXp2rjRsbas93NLZc6dzSc80ef7hyfrvn0uubggWbfxK/h0bLd
+n59Pj06GEo6nHdsUN7iwMa2wP2049XRb/sy2qt7bky89WdvHI63JazpKOz9e3NLT
+lx3Mu1nV8s47mVtS6MqbuZff55tu6pjQfxiuU3WxV911L3u6+7/GjB9Nb3zRNbW1
+d/vJk3MF1sCDvXdLEla+Sj//aGygZYBp8XNr3zw93Pi9fu5yzv7Z7pTM+Q+Fs3u+
+9aQd2ew+FJdUkLKvdPba7y83kpKGav8ArxE8Jg==
+=baPB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dcollins
+
+==================================================================
