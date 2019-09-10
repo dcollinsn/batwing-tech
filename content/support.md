@@ -28,7 +28,3 @@ can do that, depending on what you're in to:
   the cloud does have real costs, and the Judge Program doesn't have any
   mechanism to pay for them. Any support through these services will help to
   cover those expenses.
-* L2+ judges can also use the [Exemplar Program](https://apps.magicjudges.org/recognitions/)
-  to support work that they find important or valuable. Make sure you're using
-  your recognitions to thank the people who run the [projects](https://apps.magicjudges.org/projects/)
-  that you find helpful. [Need ideas?](https://apps.magicjudges.org/recognitions/search/?creator=Dan+Collins&creator_id=7104)
