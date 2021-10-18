@@ -8,3 +8,5 @@ the Magic: the Gathering and Flesh and Blood Judge Programs. Turns out, places
 like banks (hi!) trust you a lot more if you have a website.
 
 If you'd like to know more about what I do, [see the About page](/about/).
+
+<!--more-->
