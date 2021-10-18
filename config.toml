@@ -39,10 +39,6 @@ googleAnalytics = "UA-135607714-2"
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "announcements"
-        name = "Judge Announcements Bot"
-        url = "/announcements"
-      [[languages.en.menu.main]]
-        identifier = "support"
-        name = "Support"
-        url = "/support"
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
