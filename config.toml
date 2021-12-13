@@ -42,3 +42,8 @@ googleAnalytics = "UA-135607714-2"
         identifier = "contact"
         name = "Contact"
         url = "/contact"
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5

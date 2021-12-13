@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-date: 2021-10-18T15:03:00-04:00
 ---
 
 If you'd like to reach out to me for any matter related to any project I am

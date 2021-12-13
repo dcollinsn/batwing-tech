@@ -1,6 +1,5 @@
 ---
 title: "About Batwing Hobbies"
-date: 2019-03-21T22:35:43-04:00
 ---
 
 Batwing Hobbies LLC's owner and sole member is Dan Collins - Level 3 Magic: the
