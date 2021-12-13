@@ -4,12 +4,13 @@ date: 2019-03-21T22:35:43-04:00
 ---
 
 Batwing Hobbies LLC's owner and sole member is Dan Collins - Level 3 Magic: the
-Gathering Judge, Level 1 Flesh and Blood Judge, consultant, and software
-developer. I am committed to providing expert and professional services to a
-wide range of organizations, projects, and individuals related to competitive
-gaming and organized play, and especially to TCG organized play. This includes
-officiating at tournaments as well as providing technical work for affiliated
-projects.
+Gathering Judge, Level 2 Flesh and Blood Judge, consultant, and software
+developer. I'm based out of New Jersey, but you can probably find me at events
+thoughout the United States. I am committed to providing expert and professional
+services to a wide range of organizations, projects, and individuals related to
+competitive gaming and organized play, and especially to TCG organized play.
+This includes officiating at tournaments as well as providing technical work for
+affiliated projects.
 
 At tournaments, this includes providing rulings and leading teams of judges to
 perform the myriad tasks that are required to run a smooth, fun, and fair event.
