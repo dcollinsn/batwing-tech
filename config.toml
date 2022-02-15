@@ -1,15 +1,13 @@
 baseurl = "https://batwing.tech/"
 languageCode = "en-us"
 title = "Batwing Hobbies"
-theme = "terminal"
+theme = "hello-friend-ng"
 paginate = 5
 googleAnalytics = "UA-135607714-2"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 3
   # set theme to full screen width
@@ -32,6 +30,8 @@ googleAnalytics = "UA-135607714-2"
     [languages.en.params.logo]
       logoText = "Batwing.Tech"
       logoHomeLink = "/"
+      logoCursorAnimate = "0s"
+      logoCursorColor = "#ffa86a"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -42,6 +42,10 @@ googleAnalytics = "UA-135607714-2"
         identifier = "contact"
         name = "Contact"
         url = "/contact"
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
 
 [sitemap]
   changefreq = 'daily'
