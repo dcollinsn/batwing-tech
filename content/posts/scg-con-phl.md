@@ -3,6 +3,10 @@ title: "SCG CON Philadelpha 2022 Tournament Report"
 date: "2022-02-15T12:00:00-05:00"
 draft: false
 toc: true
+tags:
+  - tournament-report
+  - scg-con
+  - side-events
 ---
 
 Hello everyone! I wanted to share a tournament report from FaB Sides at SCG CON
@@ -10,6 +14,9 @@ Philly, which will also include some discussion from SCG CON Roanoke. I had the
 role of FaB Sides lead at both events. I'll also be starting a discussion thread
 in the #judge-calls channel in the Flesh and Blood Judge Hub server, and I'd
 invite any discussion or questions in that thread to keep it centralized.
+
+Cross-references:
+- [Coverage from fabtcg.com, including top 8 lists](https://fabtcg.com/articles/recap-battle-hardened-philadelphia/)
 
 ## Application and Initial Staffing
 
