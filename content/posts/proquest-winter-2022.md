@@ -1,6 +1,6 @@
 ---
 title: "Proquest Winter 2022"
-date: 2022-02-26T21:00:00-05:00
+date: 2022-03-03T19:00:00-05:00
 toc: true
 tags:
   - tournament-report
@@ -19,9 +19,16 @@ which significantly shook up the Classic Constructed metagame. A new Bravo
 initially emerged as the dominant deck, with Chane, the other Runeblades,
 Prism, and Oldhim also picking up some new cards.
 
-Each of these ProQuests is capped at 32 players, meaning we will play 5 rounds
-and then cut to Top 8, with the winner receiving an invite to the upcoming Pro
+Most of these ProQuests is capped at 32 players, meaning we will play 5 rounds
+and then cut to Top 8, with a few events bleeding into 6 rounds. Top 8 receive a
+variety of promo cards, with the winner receiving an invite to the upcoming Pro
 Tour.
+
+As ProQuest season started, I was only planning on working 3 of these events. I
+had reached out to the area stores hosting ProQuests, and of those who did not
+respond, I had information suggesting that they already had other judges
+staffed. However, as the season went on, two more stores reached out looking for
+a judge, bringing my total up to 5 events.
 
 ## Event Planning
 
@@ -150,3 +157,180 @@ resolve after Temper. So, the legal outcomes are:
 Regardless of ordering, the Frostbite token will be created, and the Temper
 effect will resolve.
 
+## Feb 26th - North Jersey
+
+This event was the dark horse of the season, since I didn't know I would even be
+working it until the week of the event. This is also the only event that wasn't
+capped at 32 - the organizer has space for 70 players. Even the day before, I
+didn't know how many players we would have - there are at least 23 registered
+online, but I don't know if there are more players registered in store.
+
+This event also starts at noon, and I have a 9AM event the following day. So I
+wound up staying overnight at a hotel in north jersey, which would help with the
+short turnaround time. Sunday morning I'll have roughly a 45 minute drive and a
+short walk to get over to the store in Brooklyn, so I definitely don't want
+to add an extra hour drive each way by going home between the two events.
+
+We ended up with 40 players, which was lucky because the store had space in the
+main building for 40 players. The rest of the tables were in a separate space in
+an adjacent building.
+
+### Event Schedule
+
+In this case, we decided to include a half hour lunch break after round 4. This
+worked out pretty well, since we otherwise would have had 6 rounds + top 8 all
+back to back. The store ordered some pizzas which attendees could buy, and there
+were a number of good places to grab food nearby as well.
+
+### Calls by Spectators
+
+A lot of the judge calls in the early rounds were fairly routine - the usual
+rules questions that you might expect. Things like Tunic + Frostbite, how does
+Gloomveil work, Runechants + Rosetta + Spectra, and so on. We did have a Lexi
+player wind up with a Lightning Press in arsenal, I was called to answer whether
+they could play it without a legal target.
+
+However, I had a few calls by spectators who believed that they had noticed an
+error in the game state. In the first place, a spectator noticed that a player
+had played a non-attack action, but had not moved previous action cards off the
+field. There was no apparent advantage to be gained, and in fact it is not
+uncommon for players to leave extra cards on the field to show the sequence of
+actions for the turn, even if they technically should be in the graveyard. This
+is especially helpful for action cards that affect future attacks, so I normally
+would not intervene solely for this reason. However, since it was pointed out, I
+stepped in and relayed the spectator's concern - at which point the player
+explained that the NAA had been played as an instant.
+
+In a similar case, I had a spectator tell me that a player had failed to place
+-1 counters on several equipment cards which had been used to defend. I
+initially asked the players to run through the attacks on the previous turn -
+enough time had passed that they didn't fully remember the details right away -
+so I pointed out what the spectator had noticed. The player immediately pointed
+out that they had Nerves of Steel in play.
+
+This type of situation presents a dilemma when you first arrive at the table. On
+the one hand, you want to avoid disclosing too much information about what you
+are investigating, so that players are more likely to give an honest and
+complete answer. On the other hand, it may be faster to simply point out exactly
+what the spectator noticed, and see how the players answer. Is it better to risk
+wasting some time, or to risk divulging too much information?
+
+### Statistics
+
+- 40 Players
+  - 9x Bravo, Star of the Show
+  - 7x Prism
+  - 6x Viserai
+  - 6x Lexi
+  - 3x Oldhim
+  - 2x Briar
+  - 2x Chane
+  - 1x Bravo, Showstopper
+  - 1x Dash
+  - 1x Levia
+  - 1x Azalea
+- Top 8:
+  - 3x Viserai, 2x Starvo, 1 Chane, 1 Briar, 1 Prism
+- Top 4:
+  - 2x Viserai, 1 Starvo, 1 Chane
+- Top 2:
+  - Starvo vs Chane
+- Champion:
+  - Starvo
+- Round times:
+  - R1: Start 12:17
+  - R2: Start 1:16
+  - R3: Start 2:18
+  - R4: Start 3:17
+  - Break: 4:12-4:48
+  - R5: Start 4:53
+  - R6: Start 5:49
+  - Quarters: Start 6:50
+  - Semis: Start 7:41
+  - Finals: Start 8:29
+  - End: 9:16
+
+## Feb 27 - Brooklyn
+
+The very next day I drove into Brooklyn and paid way too much money for tolls to
+get to the next ProQuest. This event was hosted by a hybrid cafe/board gaming
+lounge, which was certainly convenient from the standpoint of food and coffee!
+The event was capped at 32, but unfortunately the space available was quite
+limited - the top 9 matches were played in a back room of about 200 square feet.
+Suffice it to say, some judge calls were difficult to access!
+
+The event was initally announced for 9 AM, but since that was so close to the
+store's opening time, and due to some players potentially being delayed, we
+started at 9:30. Still, we had about 4-5 no shows among pre-registered players,
+and a few waitlisted players were able to join. Our total size was 30 players,
+coming to 5 rounds.
+
+### Can I Concede?
+
+The common rules questions are the same across all these events, and so I will
+generally stop mentioning them. I had another Lexi player get stuck with a
+Lightning Press in arsenal, and a lot of questions about Tunic and additional
+costs.
+
+In round 5, after I called time, a player called me over to ask if they could
+concede. I explained to them that the recent tournament policy update
+effectively prohibits concessions after time has been called, unless there is a
+legitimate outside the game reason why they can not continue playing.
+
+Once we had the Top 8 announced, I had a chance to catch up with this player and
+walk through the current state of the rules with them. While they ultimately
+agreed that the ruling in this case was correct, they felt that the change to
+concession policy was more of a step backwards than an improvement, citing that
+it is now legal to do any sort of match fixing by conceding early in the round
+when paired against a teammate, but players cannot choose to give their opponent
+the win in the case where they would have clearly earned it a few more turns
+down the line.
+
+### Slow Play Remedies
+
+I also had a conversation with a player about what they believed was a chronic
+slow play over the course of the event. This meta is certainly conducive to slow
+play, with several decks that frequently take a lot of time to make decisions.
+This event, it was also particularly difficult to police slow play owing to the
+very limited space in the back - it was virtually impossible to walk through the
+aisles.
+
+While I have given cautions for slow play, I think we are lacking a real
+mechanism to remedy slow play. In Magic, players receive extra turns after time
+if a slow play warning is issued, however we have no such remedy yet in FaB. In
+theory you could use head judge discretion to create such a fix anyway, however
+I haven't yet had a case so severe that I wanted to do that - it would take a
+pretty serious infraction, in my opinion, before I could invent a brand new
+penalty.
+
+### Statistics
+
+- 30 Players
+  - 9x Bravo, Star of the Show
+  - 5x Prism
+  - 5x Viserai
+  - 3x Lexi
+  - 2x Katsu
+  - 1x Briar
+  - 1x Dorinthea
+  - 1x Rhinar
+  - 1x Dash
+  - 1x Azalea
+  - 1x Oldhim
+- Top 8:
+  - 4x Starvo, 2x Viserai, 1x Prism, 1x Katsu
+- Top 4:
+  - 2x Viserai, 1x Starvo, 1x Prism
+- Top 2:
+  - 1x Viserai, 1x Prism
+- Champion: Viserai
+- Round Times:
+  - R1: Start 9:34
+  - R2: Start 10:39
+  - R3: Start 11:42
+  - R4: Start 12:44
+  - R5: Start 1:45
+  - Quarters: Start 2:58
+  - Semis: Start 3:55
+  - Finals: Start 4:48
+  - End: 5:00
