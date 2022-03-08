@@ -138,7 +138,7 @@ the Finals. My players who chose to split all eventually settled on an even
 split, however policy is unclear on whether a split is required to be even. Is
 it possible to "redistribute" prizes, for example, by saying that the loser will
 receive all of the cash / store credit on offer? The last two paragraphs of TR
-5.2 seem to be redundant, except that once specifies even splits and the other
+5.2 seem to be redundant, except that one specifies even splits and the other
 does not. Under what circumstances does a split need to be even?
 
 Another discussion area was that some judges believe that since an even split is
@@ -301,7 +301,7 @@ the space available was quite limited - the top 9 matches were played in a back
 room of about 200 square feet. Suffice it to say, some judge calls were
 difficult to access!
 
-The event was initally announced for 9 AM, but since that was so close to the
+The event was initially announced for 9 AM, but since that was so close to the
 store's opening time, and due to some players potentially being delayed, we
 started at 9:30. Still, we had about 4-5 no shows among pre-registered players,
 and a few waitlisted players were able to join. Our total size was 30 players,
