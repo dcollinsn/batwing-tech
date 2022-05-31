@@ -1,7 +1,6 @@
 ---
 title: "The Calling Indianapolis 2022"
 date: 2022-03-24T16:06:47-04:00
-draft: true
 toc: true
 images:
 tags:
