@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Batwing Hobbies"
 theme = "hello-friend-ng"
 paginate = 5
-googleAnalytics = "UA-135607714-2"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
