@@ -1,7 +1,7 @@
 ---
 title: "(Traditional) Deck Checks Considered Harmful"
-date: 2023-02-10T16:03:29-05:00
-draft: true
+date: 2023-02-15T13:45:00-05:00
+draft: false
 toc: true
 tags:
   - tournament-report
