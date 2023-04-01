@@ -50,6 +50,7 @@ days.
 | Auckland | 2023-02-25 | NZ$500 + 4 boxes | $508 | NZ$1200 + 6 boxes | $1039 | [Source][8] |
 | Antwerp | 2023-05-19 | EUR 350 + 4 boxes | $570 | EUR 725[^2daylead] + 6 boxes | $1068 | [Source][16] |
 | Birmingham | 2023-07-28 | GBP 300 + 4 boxes | $570 | GBP 650[^2daylead] + 6 boxes | $1102 | [Source][20] |
+| Singapore | 2023-04-01 | SGD 400 + 4 boxes | $500 | SGD 900[^2daylead] + 6 boxes | $976 | [Source][21] |
 
 # Pro Tours and World Championships
 
@@ -82,6 +83,7 @@ days.
 [18]: https://docs.google.com/forms/d/e/1FAIpQLSfDQ4gF7do5l_AUrpVIFzBYpIZYEkWvU8VWhnqoPP3h-MsVcA/viewform
 [19]: https://docs.google.com/forms/d/e/1FAIpQLSczWyYIVrJ2hsyT_X8R1CHoIDD_EVROeYRMk5KTVLnjJ22M6g/formResponse
 [20]: https://judge.fabtcg.com/events/12914/
+[21]: https://judge.fabtcg.com/events/12918/
 
 [^mon]: Monarch Unlimited boxes worth less than standard value. Subtracted $50
     from the total for each role.
