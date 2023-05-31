@@ -4,6 +4,7 @@ date: 2023-02-15T13:45:00-05:00
 draft: false
 toc: true
 tags:
+  - deck-checks
   - tournament-report
   - calling
   - battle-hardened
