@@ -51,6 +51,7 @@ days.
 | Antwerp | 2023-05-19 | EUR 350 + 4 boxes | $570 | EUR 725[^2daylead] + 6 boxes | $1068 | [Source][16] |
 | Birmingham | 2023-07-28 | GBP 300 + 4 boxes | $570 | GBP 650[^2daylead] + 6 boxes | $1102 | [Source][20] |
 | Singapore | 2023-04-01 | SGD 400 + 4 boxes | $500 | SGD 900[^2daylead] + 6 boxes | $976 | [Source][21] |
+| Taipei | 2023-10-13 | TWD 9000 + 4 boxes | $488 | TWD 20500[^2daylead] + 6 boxes | $956 | [Source][22] |
 
 # Pro Tours and World Championships
 
@@ -84,6 +85,7 @@ days.
 [19]: https://docs.google.com/forms/d/e/1FAIpQLSczWyYIVrJ2hsyT_X8R1CHoIDD_EVROeYRMk5KTVLnjJ22M6g/formResponse
 [20]: https://judge.fabtcg.com/events/12914/
 [21]: https://judge.fabtcg.com/events/12918/
+[22]: https://judge.fabtcg.com/events/13031/
 
 [^mon]: Monarch Unlimited boxes worth less than standard value. Subtracted $50
     from the total for each role.
