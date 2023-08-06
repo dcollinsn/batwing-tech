@@ -52,7 +52,7 @@ days.
 | Birmingham | 2023-07-28 | GBP 300 + 4 boxes | $570 | GBP 650[^2daylead] + 6 boxes | $1102 | [Source][20] |
 | Singapore | 2023-04-01 | SGD 400 + 4 boxes | $500 | SGD 900[^2daylead] + 6 boxes | $976 | [Source][21] |
 | Taipei | 2023-10-13 | TWD 9000 + 4 boxes | $488 | TWD 20500[^2daylead] + 6 boxes | $956 | [Source][22] |
-| Dallas | 2023-10-20 | TBA | TBA | $750 + 6 boxes | $1050 | [Lead][25] Floor TBA |
+| Dallas | 2023-10-20 | TBA | TBA | $750 + 4 boxes | $950 | [Lead][25] Floor TBA |
 | Melbourne | 2023-11-03 | AUD 450 + 4 boxes | $496 | AUD 975[^2daylead] + 6 boxes | $942 | [Source][24] |
 
 
