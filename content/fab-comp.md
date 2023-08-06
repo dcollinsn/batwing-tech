@@ -52,6 +52,9 @@ days.
 | Birmingham | 2023-07-28 | GBP 300 + 4 boxes | $570 | GBP 650[^2daylead] + 6 boxes | $1102 | [Source][20] |
 | Singapore | 2023-04-01 | SGD 400 + 4 boxes | $500 | SGD 900[^2daylead] + 6 boxes | $976 | [Source][21] |
 | Taipei | 2023-10-13 | TWD 9000 + 4 boxes | $488 | TWD 20500[^2daylead] + 6 boxes | $956 | [Source][22] |
+| Dallas | 2023-10-20 | TBA | TBA | $750 + 6 boxes | $1050 | [Lead][25] Floor TBA |
+| Melbourne | 2023-11-03 | AUD 450 + 4 boxes | $496 | AUD 975[^2daylead] + 6 boxes | $942 | [Source][24] |
+
 
 # Pro Tours and World Championships
 
@@ -61,6 +64,7 @@ days.
 | PT #2 Lille | 2022-08-26 | EUR 500 + 4 boxes | $730 | EUR 600 + 7[^2daylead] boxes | $985 | [Source][10] |
 | Worlds 2022 San Jose | 2022-11-04 | $500 + 4 boxes | $700 | $600 + 7[^2daylead] boxes | $950 | [Source][9] |
 | PT #3 Baltimore | 2023-04-28 | $400 + 3 boxes | $550 | $750 + 4 boxes | $950 | [Lead][3] [Floor][4] |
+| Worlds 2023 Barcelona | 2023-11-17 | EUR 350 + 4 boxes | $586 | EUR 725[^2daylead] + 6 boxes | $1000 | [Source][23] |
 
 
 
@@ -86,6 +90,9 @@ days.
 [20]: https://judge.fabtcg.com/events/12914/
 [21]: https://judge.fabtcg.com/events/12918/
 [22]: https://judge.fabtcg.com/events/13031/
+[23]: https://judge.fabtcg.com/events/13039/
+[24]: https://judge.fabtcg.com/events/13051/
+[25]: https://cdn.discordapp.com/attachments/672441423991275561/1137756339695796304/Leadership_Solicitation_-_Information_-_SCG_CON_Dallas.pdf
 
 [^mon]: Monarch Unlimited boxes worth less than standard value. Subtracted $50
     from the total for each role.
