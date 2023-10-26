@@ -49,11 +49,12 @@ days.
 | Indianapolis | 2023-02-04 | $400 + 2 boxes | $500 | $750 + 4 boxes | $950 | [Lead][1] [Floor][2] |
 | Auckland | 2023-02-25 | NZ$500 + 4 boxes | $508 | NZ$1200 + 6 boxes | $1039 | [Source][8] |
 | Antwerp | 2023-05-19 | EUR 350 + 4 boxes | $570 | EUR 725[^2daylead] + 6 boxes | $1068 | [Source][16] |
+| Singapore | 2023-06-09 | SGD 400 + 4 boxes | $500 | SGD 900[^2daylead] + 6 boxes | $976 | [Source][21] |
 | Birmingham | 2023-07-28 | GBP 300 + 4 boxes | $570 | GBP 650[^2daylead] + 6 boxes | $1102 | [Source][20] |
-| Singapore | 2023-04-01 | SGD 400 + 4 boxes | $500 | SGD 900[^2daylead] + 6 boxes | $976 | [Source][21] |
 | Taipei | 2023-10-13 | TWD 9000 + 4 boxes | $488 | TWD 20500[^2daylead] + 6 boxes | $956 | [Source][22] |
-| Dallas | 2023-10-20 | TBA | TBA | $750 + 4 boxes | $950 | [Lead][25] Floor TBA |
+| Dallas | 2023-10-20 | $400 + 4 boxes | $600 | $750 + 4 boxes | $950 | [Lead][25] [Floor][26] |
 | Melbourne | 2023-11-03 | AUD 450 + 4 boxes | $496 | AUD 975[^2daylead] + 6 boxes | $942 | [Source][24] |
+| Queenstown | 2024-01-19 | NZD 700 + 4 boxes[^nzboxes] | $607 | NZD 1350[^2daylead] + 6 boxes[^nzboxes] | $986 | [Source][27] |
 
 
 # Pro Tours and World Championships
@@ -93,6 +94,8 @@ days.
 [23]: https://judge.fabtcg.com/events/13039/
 [24]: https://judge.fabtcg.com/events/13051/
 [25]: https://cdn.discordapp.com/attachments/672441423991275561/1137756339695796304/Leadership_Solicitation_-_Information_-_SCG_CON_Dallas.pdf
+[26]: https://discord.com/channels/672440717724876820/672441423991275561/1140999097126498414
+[27]: https://judge.fabtcg.com/events/13086/
 
 [^mon]: Monarch Unlimited boxes worth less than standard value. Subtracted $50
     from the total for each role.
@@ -104,3 +107,5 @@ days.
     listed on the initial judge solicitation. As the quantity is undocumented,
     and judges could not take this into account when deciding whether to apply,
     the are not currently included here.
+[^nzboxes]: Judges from outside New Zealand receive an additional 4 boxes for
+    the weekend.
